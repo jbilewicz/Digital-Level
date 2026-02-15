@@ -1,8 +1,4 @@
-# 📐 Digital Level (Poziomica Cyfrowa) | ESP32 & MPU6050
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Digital%20Level%20Project&fontSize=50&animation=twinkling" alt="Header" />
-</p>
+# 📐 Digital Level (Poziomica Cyfrowa)
 
 ## 📝 Project Overview
 [cite_start]This project is a high-precision digital level based on the **ESP32** microcontroller[cite: 13]. [cite_start]It utilizes the **MPU6050** 6-axis accelerometer and gyroscope to measure tilt angles in real-time[cite: 13]. [cite_start]When the device reaches a perfectly horizontal position (tilt < 0.30 m/s² on X and Y axes), it triggers an audible alert[cite: 14, 160, 199].
