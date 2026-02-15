@@ -1,4 +1,4 @@
-# 📐 Digital Level (Poziomica Cyfrowa)
+# 📐 Digital Level
 
 ## 📝 Project Overview
 This project is a high-precision digital level based on the **ESP32** microcontroller. It utilizes the **MPU6050** 6-axis accelerometer and gyroscope to measure tilt angles in real-time. When the device reaches a perfectly horizontal position (tilt < 0.30 m/s² on X and Y axes), it triggers an audible alert.
